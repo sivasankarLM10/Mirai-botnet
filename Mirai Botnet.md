@@ -65,3 +65,13 @@ By
 •  Get network forensics in order.
 •  Consider a CDN provider to handle peak traffic loads.
 ```
+
+```
+Resources
+
+•  https://www.cloudflare.com/en-in/learning/ddos/glossary/mirai-botnet/
+•  https://www.cloudflare.com/learning/ddos/ddos-mitigation
+•  https://www.corero.com/resource-hub/mirai-botnet-ddos-attack/
+•  https://blog.cloudflare.com/inside-mirai-the-infamous-iot-botnet-a-retrospective-analysis/#toc-2
+•  https://blog.attify.com/how-mirai-botnet-hijacks-your-devices/
+```
